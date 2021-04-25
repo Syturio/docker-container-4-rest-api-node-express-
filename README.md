@@ -1,7 +1,4 @@
 ## Docker Container (https://github.com/brunoalvaress/rest-api-node-express)
-- Criado docker-compose.yml
-- Criado Dockerfile
-- Modificações necessárias a alguns ficheiros.
 
 ### Start
 - docker-compose up -d
